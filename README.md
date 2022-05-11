@@ -1,2 +1,2 @@
 # Web-Practice
-#### CSS and JS file is in asset folder
+#### CSS and JS file are in the asset folder
